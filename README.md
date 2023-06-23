@@ -1,4 +1,4 @@
-<h1 align="center">FAST NUCES : Programming Fundamentals (CS1002) : Assignments
+<h1 align="center">FAST NUCES: Programming Fundamentals (CS1002): Assignments
 </h1>
 
 ![C++ Gif](https://eportfolio.utm.my/artefact/file/download.php?file=711656&view=178366&embedded=1&text=713708)
