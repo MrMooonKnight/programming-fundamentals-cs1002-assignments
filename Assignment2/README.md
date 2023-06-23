@@ -6,5 +6,5 @@
 - logic development
 
 ## Rock Paper Scissors Game 
-[Click here!](https://github.com/mrblackhearts/programming-fundamentals-cs1002-assignments/tree/main/assignment2/q3) )
+[Assignment 2 : Q3](https://github.com/mrblackhearts/programming-fundamentals-cs1002-assignments/tree/main/assignment2/q3)
 
