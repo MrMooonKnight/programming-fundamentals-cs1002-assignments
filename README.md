@@ -6,7 +6,7 @@
 As a student of Cyber Security at [FAST NUCES](https://www.nu.edu.pk/), I successfully completed my first programming course, Programming Fundamentals, with an outstanding grade of A+. Throughout the course, we primarily focused on coding in C++. Attached are the assignments that were assigned to us, which I have solved.
 
 
-## 🗓 Assignments 
+## 📖 Assignments 
 - [Assignment 1](https://github.com/mrblackhearts/programming-fundamentals-cs1002-assignments/tree/main/assignment1) Basic Input/Output and Arithmetic Operators
 - [Assignment 2](https://github.com/mrblackhearts/programming-fundamentals-cs1002-assignments/tree/main/assignment2) Logic Development : if-else-if and switches
 - [Assignment 3](https://github.com/mrblackhearts/programming-fundamentals-cs1002-assignments/tree/main/assignment3) Pattern Printing Using Loops
