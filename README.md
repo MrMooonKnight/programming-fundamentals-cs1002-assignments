@@ -14,19 +14,19 @@ As a student of Cyber Security at [FAST NUCES](https://www.nu.edu.pk/), I succes
 
 
 ## ⚙ Languages and Concepts Covered
-- C++ programming language
-- Variable declaration and utilization
-- Assignment, arithmetic, bitwise and logical operators
-- Conditional statements: if, else, else if
-- Multiple selection structure: switch statement
-- Looping constructs: for, while, do/while
-- Control flow manipulation: break and continue statements
-- Function definition and usage
-- Arrays for data organization
-- Pointers for memory management
-- String manipulation and processing
-- Output formatting using iomanip library
-- Dynamic memory allocation with dynamic arrays
-- File reading and writing using fstream library
+- C++ programming language.
+- Variable declaration and utilization.
+- Assignment, arithmetic, bitwise and logical operators.
+- Conditional statements: if, else, else if.
+- Multiple selection structure: switch statement.
+- Looping constructs: for, while, do/while.
+- Control flow manipulation: break and continue statements.
+- Function definition and usage.
+- Arrays for data organization.
+- Pointers for memory management.
+- String manipulation and processing.
+- Output formatting using iomanip library.
+- Dynamic memory allocation with dynamic arrays.
+- File reading and writing using fstream library.
 
 These topics were covered extensively throughout the course, providing me with a solid foundation in programming fundamentals and practical skills in C++ programming.
